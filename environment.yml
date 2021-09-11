@@ -1,0 +1,7 @@
+name: dstut
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+prefix: /Users/manoj/software/miniconda3/envs/dstut
